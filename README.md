@@ -1,6 +1,10 @@
 # spotify-top50-data-analysis-SQL
 SQL analysis of the Spotify Top 50 dataset, including metrics on danceability, popularity, song keys, and artist rankings.
 
+--Dataset: Spotify top 50 songs in 2021
+--Source: [Kaggle] https://www.kaggle.com/datasets/equinxx/spotify-top-50-songs-in-2021
+--Queried using: PostgreSQL
+
 
 ## Project Overview
 This project involves analyzing the Spotify Top 50 dataset from 2021 to gain insights into various musical attributes. The dataset includes attributes such as artist name, track name, popularity, danceability, energy, and musical key. The analysis focuses on deriving meaningful insights through SQL queries, including: <br>
